@@ -251,19 +251,6 @@ lib/
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-* Dashboard
-* Document Upload
-* Evidence Checklist
-* Timeline Generator
-* Generated Legal Notice
-* Product Tour
-
----
-
 # 🧑‍🎓 Author
 
 Made with 💻 by Sejal.
